@@ -1,9 +1,4 @@
 
-###  DATE: 10-03-24
-
-###  NAME: SANJAY K
-###  ROLL NO : 212223220094
-###  DEPARTMENT: INFORMATION TECHNOLOGY
 
 # EXPERIMENT--04-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
